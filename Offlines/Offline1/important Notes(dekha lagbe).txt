@@ -1,0 +1,2 @@
+ekhane range chilo [-1,1]
+So amk actual y er value dhora lagbe Yes hole +1 ar No hole -1. ami dhorsi Yes hole 1 ar No hole 0
